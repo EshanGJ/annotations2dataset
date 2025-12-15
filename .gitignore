@@ -1,3 +1,9 @@
+images
+dataset
+converted_jsons
+annotated_images
+label-studio_exports
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
